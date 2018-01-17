@@ -1,0 +1,16 @@
+Author: Josh Doctors <fewjative@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SpinSettings
+Package: com.joshdoctors.spinsettings
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 205
+Version: 0.0.1-118
+Architecture: iphoneos-arm
+Description: Dynamically rotating settings icon
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spinsettingsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spinsettingsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: joshdoctors
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/SpinSettingsSettings.bundle/SpinSettings@2x.png
