@@ -1,6 +1,6 @@
 <package>
 	<id>Com.Hamagardy.kurdishlogozeppelin</id>
-	<name>Full Package</name>
+	<name>زانیاری پاکێج</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,13 +11,7 @@
 		<package>زیادکراوی زیپلین</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>چه‌ند لۆگۆیه‌كی ناوی کوردستان و ھەروەھا وێنەی چەند کەسایەتیەک وە ناوی شارەکانی کوردستان.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -29,16 +23,14 @@
 			<image>IMG_4016.PNG</image>
 		</screenshot>		
 	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/Hamagardy.8</url>
+			<iconclass>fa fa-facebook</iconclass>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/Hamagardy_ios</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
