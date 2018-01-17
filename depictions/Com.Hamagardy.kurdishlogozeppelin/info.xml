@@ -27,6 +27,11 @@
 		<link>
 			<name>Facebook</name>
 			<url>https://www.facebook.com/Hamagardy.8</url>
-		<iconclass>fa fa-facebook-square</iconclass></link>
+	                <iconclass>fa fa-facebook-square</iconclass></link>
+		
+				<link2>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/Hamagardy.8</url>
+		<iconclass>fa fa-facebook-square</iconclass></link2>
 	</links>
 </package>
