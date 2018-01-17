@@ -1,23 +1,44 @@
 <package>
 	<id>Com.Hamagardy.kurdishlogozeppelin</id>
-	<name>Old Package</name>
+	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>9.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>10.3.3</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>زیادکراوی زیپلین</package>
+	</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 9 and below..</description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>وێنەی ١ تایبەت بە پاکێج</description>
+			<image>IMG_4017.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description>وێنەی ٢ تایبەت بە پاکێج</description>
+			<image>IMG_4016.PNG</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
