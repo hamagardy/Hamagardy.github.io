@@ -34,5 +34,11 @@
 		 	<url>https://www.twitter.com/Hamagardy_ios</url>
 		<iconclass>fa fa-twitter-square</iconclass></link>
 
+
+<link>
+			<name>Github</name>
+		 	<url>https://github.com/hamagardy</url>
+		<iconclass>fa fa-github-square</iconclass></link>
+
 	</links>
 </package>
