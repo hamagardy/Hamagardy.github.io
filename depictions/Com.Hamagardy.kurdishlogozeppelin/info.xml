@@ -28,6 +28,7 @@
 			<name>Facebook</name>
 			<url>https://www.facebook.com/Hamagardy.8</url>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<iconclass>fa fa-facebook-square</iconclass></link>
 =======
 	                <iconclass>fa fa-facebook-square</iconclass></link>
@@ -37,5 +38,8 @@
 			<url>https://www.facebook.com/Hamagardy.8</url>
 		<iconclass>fa fa-facebook-square</iconclass></link2>
 >>>>>>> 23cdd18d1f151d5a2437502fe5770cb8f07afa06
+=======
+			<iconclass>fa fa-facebook-square</iconclass></link>
+>>>>>>> 929cc17cc81273f44cde34d8b0577e6280612f8f
 	</links>
 </package>
