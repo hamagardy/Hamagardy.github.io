@@ -2,6 +2,22 @@
     pointer-events: none;
 }
 
+.fa-code-fork{
+  color: #f1c40f;
+}
+
+.fa-info-circle{
+  color: #1f73f3;
+}
+
+.fa-picture-o{
+  color: #1abc9c;
+}
+
+.fa-connectdevelop{
+  color: #d35400;
+}
+
 .fa-twitter-square{
   color: #1bcdfd;
 }
