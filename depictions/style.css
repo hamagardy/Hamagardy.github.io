@@ -2,8 +2,8 @@
     pointer-events: none;
 }
 
-.fa-code-fork{
-  color: #f1c40f;
+.fa-certificate{
+  color: #8e44ad;
 }
 
 .fa-info-circle{
@@ -12,6 +12,10 @@
 
 .fa-picture-o{
   color: #1abc9c;
+}
+
+.fa-archive{
+  color: #f1c40f;
 }
 
 .fa-connectdevelop{
