@@ -2,6 +2,18 @@
     pointer-events: none;
 }
 
+.fa-twitter-square{
+  color: #1bcdfd;
+}
+
+.fa-github-square{
+  color: Black;
+}
+
+.fa-facebook-square{
+  color: #1f73f3;
+}
+
 .link-item {
     list-style-type: none;
     padding: 17px 15px;
