@@ -1,0 +1,35 @@
+Package: Com.Hamagardy.KurdishLogoZeppelin
+Name: KurdishLogoZeppelin
+Section: Hama Addons
+Version: 1.0
+Size: 95580
+Installed-Size: 116
+Architecture: iphoneos-arm
+Depends: firmware(>= 4.0), com.alexzielenski.zeppelin
+Maintainer: Hamagardy <hgardy2@gmail.com>
+Author: Hamagardy <Hgardy2@gmail.com>
+Description: چه‌ند لۆگۆیه‌كی ناوی کوردستان و ھەروەھا وێنەی چەند کەسایەتیەک وە ناوی شارەکانی کوردستان
+MD5sum:cac940fe0aee8355d9ccd1f1eecf79e7
+SHA1sum:9aad31da50b6929a225454318d8d44e68e84213e
+SHA256sum:76aafee045342885a2b12b79f59579aae7d5f764fa33afabcca726c9c3bde3e2
+Filename: debs//Com.Hamagardy.kurdishlogozeppelin_1.0_iphoneos-arm.deb
+Depiction: https://Hamagardy.github.io/depictions/?p=Com.Hamagardy.kurdishlogozeppelin
+
+
+Package: com.hamagardy.icon
+Name: Hamagardy Repo Icons
+Section: Repositories
+Version: 2.1
+Size: 17090  
+Essential: Yes
+Architecture: iphoneos-arm
+Maintainer: Hamagardy <Hgardy2@gmail.com>
+Author: Hamagardy <Hgardy2@gmail.com>
+Description: زیادکراوی ئایکۆنی  تایبەت بە سۆرس 
+MD5sum:6f606a1747a486e586cd5306eef5d5e6
+SHA1sum:9ededbae7fe083582ffa12fd3304f63a3582b670
+SHA256sum:d10146083ba254072c1068ea5a1bc900236d7297e64728b3be9783eb3d7775ff
+Filename: debs//com.hamagardy.icon_2.1_iphoneos-arm.deb
+
+
+
