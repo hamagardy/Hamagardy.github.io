@@ -16,20 +16,3 @@ Filename: debs//Com.Hamagardy.kurdishlogozeppelin_1.0_iphoneos-arm.deb
 Depiction: https://Hamagardy.github.io/depictions/?p=Com.Hamagardy.kurdishlogozeppelin
 
 
-Package: com.hamagardy.icon
-Name: Hamagardy Repo Icons
-Section: Repositories
-Version: 2.1
-Size: 17090  
-Essential: Yes
-Architecture: iphoneos-arm
-Maintainer: Hamagardy <Hgardy2@gmail.com>
-Author: Hamagardy <Hgardy2@gmail.com>
-Description: زیادکراوی ئایکۆنی  تایبەت بە سۆرس 
-MD5sum:6f606a1747a486e586cd5306eef5d5e6
-SHA1sum:9ededbae7fe083582ffa12fd3304f63a3582b670
-SHA256sum:d10146083ba254072c1068ea5a1bc900236d7297e64728b3be9783eb3d7775ff
-Filename: debs//com.hamagardy.icon_2.1_iphoneos-arm.deb
-
-
-
