@@ -61,6 +61,12 @@
 				,"paragraphElement"	: "<li class='list-group-item'>"
 				,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
 			}
+        ,"#download"	:
+			{"type":"list"
+				,"source" :"package>Download Counts>description"
+				,"paragraphElement"	: "<li class='list-group-item'>"
+				,"emptyListCallback":function(e){$("#Downloadpanel").hide()}
+			}
         ,"#screenshotsLink"	:
 			{"type":"custom"
 				,"source" :"package>screenshots>screenshot"
@@ -190,6 +196,14 @@
 	<div class="container">
 		<h5 class="fa fa-archive" style="color: #f1c40f">وەشانی پاکێج <span id="versionBadge" class="badge" /></h5>
 	</div>
+<div class="container">
+
+		<h5 class="fa fa-info-circle">ڕێژەی دابەزاندن </h5>
+		<ul id="download" class="list-group">
+
+		</ul>
+	<div class="container">
+
 	<div class="container">
 
 		<h5 class="fa fa-info-circle">دەربارەی پاکێج</h5>
